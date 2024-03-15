@@ -1,0 +1,14 @@
+- 1968
+- Geburtsstunde des [Softwareengineering](Softwareengineering.md)
+- Experten aus Wissenschaft und Berufsverbände
+	- Mathematiker
+	- Ingenieure
+	- Computerwissenschaftler
+	- Softwarehersteller
+- Diskussion über Probleme der praktischen Softwareentwicklung
+- Techniken und Herangehensweisen zur Lösung von Softwareproblemen
+- Teilnehmer:
+	- Alan J. Perlis
+	- Edsger W. [Dijkstra](Persönlichkeiten%20und%20Organisationen/Dijkstra.md)
+	- Peter [Naur](Persönlichkeiten%20und%20Organisationen/Naur.md)
+- Titel "[Softwareengineering](Softwareengineering.md)" wurde proaktiv gewählt um die Nähe der Ingenieurwissenschaften zu verdeutlichen

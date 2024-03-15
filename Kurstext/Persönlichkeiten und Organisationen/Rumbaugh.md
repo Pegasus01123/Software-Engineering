@@ -1,3 +1,3 @@
 James
 
-[[UML]]
+[UML](../UML.md)

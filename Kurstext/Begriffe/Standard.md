@@ -1,0 +1,4 @@
+- Etablierung einheitlicher Regeln
+- keine festen offiziellen Verfahren
+- nicht unüblich einen Standard im nachhinein zu [Norm](Norm.md)ieren
+- werden meist von größeren Einzelgruppen initiiert

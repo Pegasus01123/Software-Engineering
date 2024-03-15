@@ -1,1 +1,0 @@
-Ergebnis eines [[Softwareentwicklungsprozesses]]

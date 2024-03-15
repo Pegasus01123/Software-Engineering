@@ -1,2 +1,2 @@
 Herman
-- entwickelte das [[Flussdiagramm]] 
+- entwickelte das [Flussdiagramm](Flussdiagramm.md) 

@@ -1,9 +1,0 @@
-- Trennung von Hardware und Software Anfang 1970
-- Softwarefirmen:
-	- [[IBM]] 1969
-	- SDC (System Development Corporation) 1969
-	- PSI Software AG 1969
-	- Software AG Darmstadt 1969
-	- SAP 1972
-	- Microsoft 1975
-	- Oracle 1977

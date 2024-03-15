@@ -1,0 +1,4 @@
+- 1970 von David [Parnas](Persönlichkeiten%20und%20Organisationen/Parnas.md) entworfen
+- Ein Modul kapselt eine abgeschlossene Funktionalität und kann von anderen Modulen verwendet werden.
+- [Information Hiding](Information%20Hiding)
+- Ein Modul kann wiederverwertet werden

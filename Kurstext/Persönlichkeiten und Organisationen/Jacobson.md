@@ -1,3 +1,3 @@
 Ivar
 
-[[UML]]
+[UML](../UML.md)

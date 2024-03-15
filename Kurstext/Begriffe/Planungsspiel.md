@@ -1,0 +1,1 @@
+Es werden versucht Kundenwünsche und Ressourcen in Einklang zu bringen. Kundenvertreter priorisieren die [User Stories](User%20Stories.md). 

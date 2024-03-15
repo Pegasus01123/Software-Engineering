@@ -1,7 +1,7 @@
 Ab Mitte der 50er Jahre:
 - FORTRAN
 - COBOL
-- [[ALGOL]]
+- [ALGOL](ALGOL)
 - Lisp
 
 Mitte der 60er Jahre:
@@ -9,4 +9,4 @@ Mitte der 60er Jahre:
 - Simula67
 
 Ab 70er Jahre 
-- [[Pascal]]
+- [Pascal](Pascal)

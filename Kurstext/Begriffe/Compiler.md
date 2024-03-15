@@ -1,0 +1,2 @@
+- Übersetzer für [höhere Programmiersprachen](Programmiersprachen/höhere%20Programmiersprachen.md)
+- Konzentration auf das eigentliche algorithmische Problem möglich, ohne Notwendigkeit sich mit begrenzten Befehlsvorräten oder Belegung der Register zu beschäftigen.

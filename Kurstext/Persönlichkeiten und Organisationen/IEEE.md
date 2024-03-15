@@ -1,6 +1,6 @@
 - weltweiter Berufsverband von Ingenieuren 
 - 1963
-- [[Standard]]isierungen für [[Softwareengineering]] ist das S2ESC (Software and Systems Engineering Standards Committee) zuständig
+- [Standard](Standard.md)isierungen für [Softwareengineering](Softwareengineering.md) ist das S2ESC (Software and Systems Engineering Standards Committee) zuständig
 - www.ieee.org
 - www.computer.org
 - https://ieeexplore.ieee.org

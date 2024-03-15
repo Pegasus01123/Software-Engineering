@@ -7,8 +7,8 @@
 - 
 
 ## wichtige Elemente
-- Geheimnisprinzip ([[Information Hiding]])
-- [[Modularisierung]]
+- Geheimnisprinzip ([Information Hiding](Information%20Hiding))
+- [Modularisierung](Modularisierung.md)
 - Wiederverwertung
 
 Softwaretests wurden wichtiger und aufwändiger, da die Module sehr verlässlich sein mussten und sowohl einzeln, als auch im Zusammenspiel mit anderen Modulen funktionieren mussten.

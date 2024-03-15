@@ -1,4 +1,0 @@
-- Etablierung einheitlicher Regeln
-- keine festen offiziellen Verfahren
-- nicht unüblich einen Standard im nachhinein zu [[Norm]]ieren
-- werden meist von größeren Einzelgruppen initiiert

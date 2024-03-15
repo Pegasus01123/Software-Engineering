@@ -1,0 +1,3 @@
+- Die für die Software relevanten Objekte des relevanten Bereichs [Domäne](Domäne), ihre Beziehungen zueinander sowie relevante Prozesse und Aktivitäten werden verständlich modelliert.
+- Das Modell sollte im Laufe des Entwicklungsprozesses immer detaillierter werden.
+- Am Ende des Wegs sollte ein Modell stehen, das sich nach festen Regeln (und idealerweise sogar automatisiert) in Programmcode umsetzen lässt.
