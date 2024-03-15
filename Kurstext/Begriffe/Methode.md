@@ -1,0 +1,6 @@
+- Konzepte
+- Paradigmen
+- Strategien
+- Verfahren
+- Richtlinien
+- alle Arten von Anleitunge

@@ -1,0 +1,2 @@
+- Es werden verschiedene [[Modellbegriff |Modell]]e je nach [Zielgruppe](Zielgruppe.md) erstellt
+- Durch unterschiedliche [Abstraktion](Abstraktion.md)sebenen können bestimmte Aspekte untersucht werden

@@ -1,7 +1,7 @@
 ## Unified Process: 
 - auf [objektorientierte Programmierung](objektorientierte%20Programmierung.md) ausgelegtes Vorgehensmodell
 - in Zusammenhang mit [UML](UML.md) entstanden
-- Fokus liegt auf der [Domäne](Domäne) und der Erfassung der dortigen Geschäftsprozesse
+- Fokus liegt auf der [Domäne](Domäne.md) und der Erfassung der dortigen Geschäftsprozesse
 - Allgemein gehaltenes [Vorgehensmodelle](Vorgehensmodelle.md), gibt nur die Struktur vor
 
 ## Rational Unified Process
@@ -41,7 +41,7 @@
 - es kann auf neue Anforderungen eingegangen werden, Änderungen werden aber erst in späteren Inkrementen berücksichtigt
 
 ## Kunde:
-- starke Einbeziehung, da nur dieser die vertiefende Kenntnis über die [Domäne](Domäne) besitzt
+- starke Einbeziehung, da nur dieser die vertiefende Kenntnis über die [Domäne](Domäne.md) besitzt
 
 ## Artefakte: 
 - anwendungsfallorientiert

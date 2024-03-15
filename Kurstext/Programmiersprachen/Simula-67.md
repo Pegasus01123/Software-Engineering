@@ -1,0 +1,2 @@
+- Ole-Johan Dahl und Kristen Nygaard entwickelt
+- zentrale Grundkonzept der [[objektorientierte Programmierung]], Klassen und Objekte entwickelt

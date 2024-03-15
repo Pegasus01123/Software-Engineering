@@ -1,0 +1,4 @@
+- Modellierung von Realweltzusammenhängen
+- Ursprung in der [[objektorientierte Programmierung]]
+- für [[Domänenmodell]]e wird häufig [[UML]] benutzt
+- 

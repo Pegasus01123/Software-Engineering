@@ -1,0 +1,11 @@
+- vom [[Modellbegriff |Modell]] eingenommen
+- kann die Struktur zeigen:
+	- Aufbau
+	- Elemente
+	- statische Beziehungen
+	- ...
+- sein Verhalten:
+	- Antwortverhalten auf Ereignisse
+- seine Interaktion
+	- zwischen Komponenten 
+	- mit der Umgebung

@@ -1,0 +1,3 @@
+- Strukturen der Realwelt in Software
+- Merkmale und Verhalten von Objekten werden anhand des zu Modellierenden Realweltauschnitts konstruiert 
+- Ist nicht unveränderlich

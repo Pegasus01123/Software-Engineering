@@ -1,0 +1,8 @@
+- Notation = Modellierungssprache
+- häufig in Form von grafischen Notationen ([[Diagramm]])
+	- legen einen Satz von Regeln fest
+		- Kästchen oder Pfeile einer bestimmten Form haben immer die gleiche Bedeutung
+	- können von Prosa oder formularhafter Form ergänzt werden
+	- [[UML]]
+- rein textuelle Notationen
+- formal-mathematische Notationen

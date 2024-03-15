@@ -1,0 +1,4 @@
+- Ein [[Modell]] ist eine Abstraktion eines Originals
+- keine Vollständige Darstellung
+- geringerer Detaillierungsgrad
+- 

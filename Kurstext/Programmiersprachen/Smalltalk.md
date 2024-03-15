@@ -1,0 +1,3 @@
+- Adele Goldberg, Dan Ingalls, Alan Kay 
+- erweiterten [[Simula-67]] um Polymorphie und dynamisches Binden
+- arbeiteten Datenkapselung und Vererbung konsequent aus

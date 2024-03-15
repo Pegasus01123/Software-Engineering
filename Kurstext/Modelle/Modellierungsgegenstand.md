@@ -1,0 +1,3 @@
+- [Softwareentwicklungsprozesses](Softwareentwicklungsprozesses.md), z.B. [Vorgehensmodelle](Vorgehensmodelle.md)
+- Anstelle des Entwicklungsprozesses kan es aber auch ein Softwareprodukt selber sein
+- [[Modellbegriff |Modell]]e die einen Ausschnitt der [[objektorientierte Modellierung |Realwelt ]], die [Domäne](Domäne.md) abbilden

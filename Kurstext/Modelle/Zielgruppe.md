@@ -1,0 +1,1 @@
+- die Zielgruppe und der [Modellierungszweck](Modellierungszweck.md) bestimmen die Ausgestalltung eines [[Modellbegriff |Modell]]s
