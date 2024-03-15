@@ -1,0 +1,1 @@
+der Prozess von der Erhebung der Anforderungen an die zu erstellende Software bin zur Auslieferung des fertigen Produkts

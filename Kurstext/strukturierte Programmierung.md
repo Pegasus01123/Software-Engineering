@@ -1,0 +1,7 @@
+- hierarchische Zerlegung eines Problems in Teilprobleme um die Komplexität zu verringern ([[Teile und Herrsche]])
+- Sequenz von Anweisungen, Schleife und Verzweigung
+	- keine Sprunganweisung  (GOTO)
+- am weitesten verbreitete [[Programmierparadigma]] der späten 1960er und 1970er
+- [[Pascal ]] als grundlegende Programmiersprache
+- Programme wurden übersichtlicher
+- Funktionalitäten konnten getrennt voneinander programmiert werden

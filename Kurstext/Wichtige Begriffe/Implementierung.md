@@ -1,0 +1,1 @@
+Prozess der Programmcodeerstellung eines [[Softwareprodukt]]s auf Basis einer in Nicht-Code formulierten Vorlage, wie z.B ein mathematisch oder allgemeinsprachlich definierter Algorithmus oder ein grafisch oder textuell beschriebener Softwareentwurf.

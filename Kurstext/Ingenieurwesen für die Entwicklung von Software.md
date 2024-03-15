@@ -1,0 +1,3 @@
+- Softwareengineering ist mehr als nur Programmierung, beinhaltet also noch weitere Prozesse.
+- Softwareengineering beschäftigt sich mit der systematischen Entwicklung von komplexer  Software. Es geht also zum einen darum, geplant zu entwickeln, statt „irgendwie zu programmieren“. Und zum anderen liegt der Fokus auf den größeren, komplexeren Softwaresystemen und nicht auf dem kleinen, einfachen Programm zur automatischen Bewässerung der eigenen Zimmerpflanzen.
+- Softwareengineering beruht neben theoretischen (mathematischen) Grundlagen auch auf heuristischen Techniken und Methoden (Best Practices). 

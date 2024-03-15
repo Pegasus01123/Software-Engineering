@@ -1,0 +1,2 @@
+- Kompendium des [[Softwareengineering]]
+- 15 Wissensgebiete, jedes Wissensgebiet wird auf 15 - 20 Seiten dargestellt

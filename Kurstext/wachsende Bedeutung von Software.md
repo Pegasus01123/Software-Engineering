@@ -1,0 +1,3 @@
+- Leistung der Hardware verbesserte sich seit Mitte der 1960er
+- Komplexität der Software stieg wenigstens in dem Maß wie die zu lösenden Probleme 
+- Große Softwareentwicklungsprojekte wurden mehr

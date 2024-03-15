@@ -1,0 +1,10 @@
+- [[Objektorientierte Programmiersprachen]]
+- neue Entwurfsmethoden
+	- Unterschiede:
+		- eng an einer Programmiersprache
+		- nur auf bestimmte Anwendungsgebiete bezogen
+		- Hardware spezifisch
+	- Gemeinsamkeiten:
+		- nicht in Programmcode: mit Diagrammen und formal textuelle Spezifikationen
+- neue [[CASE Tools]] zur Unterstützung
+- [[Domänenmodell]] zu Beginn eines Softwareentwicklungsprozesses

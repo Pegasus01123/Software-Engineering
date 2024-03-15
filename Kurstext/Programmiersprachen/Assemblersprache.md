@@ -1,0 +1,2 @@
+- jede Anweisung erzeugt genau einen Befehl
+- lesbare Darstellung von Binärcode

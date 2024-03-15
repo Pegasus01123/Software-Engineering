@@ -1,0 +1,13 @@
+- Dokumente, die Regeln für Produkte, Dienstleistungen und Verfahren festlegen
+- Fest definierter Prozess
+- werden nur von anerkannten Normungsinstituten durchgeführt.
+- Deutschland: 
+	- DIN: Deutsche Institut für Normung e.V.
+	- DKE: Deutsche Kommission Elektrotechnik Elektronik Informationstechnik in DIN und VDE (Verband Deutscher Elektrotechniker) Elektrotechnik, Elektronik und Informationstechnik 
+- Amerika:
+	- ANSI: American National Standards Institute
+- International:
+	- Dachverband: WSC (World Standards Cooperation)
+	- [[ISO]]: Internationale Organisation für Normung
+	- [[IEC]]: International Electrotechnical Commission
+	- ITU: International Telecommunication Union

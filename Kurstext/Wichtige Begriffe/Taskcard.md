@@ -1,0 +1,1 @@
+eine Art logischer Karteikarte auf der Anforderungen festgehalten und später abgearbeitet werden.
