@@ -24,6 +24,14 @@
 - bekannte Anforderungen werden nur gesammelt
 - Anforderungen werden erst kurz vor Umsetzung spezifiziert
 - prioritäre Anforderungen können vorgezogen werden
+## Modellierung
+- für kommunikationszwecke
+- Modelle müssen nicht umfassend sein
+- müssen nur für die konkrete Situation verständlich sein
+- unterscheiden sich von der klassischen [[Domänenmodell |Domänenmodellierung]]
+	- findet in jeder Iteration statt
+	- Modelliert werden die Objekte usw, um die es in der aktuellen Anforderung geht
+	- [[Domänenmodell]] entsteht nicht als ganzes, sondern wächst mit jeder Iteration
 
 
 ## Einbezug Kunde:

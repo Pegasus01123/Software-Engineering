@@ -7,3 +7,6 @@ entwickelt von [Booch](Persönlichkeiten%20und%20Organisationen/Booch.md), [Jaco
 - ist unabhängig von der Wahl der [Vorgehensmodelle](Vorgehensmodelle.md)
 - ist unabhängig von den benutzten [Objektorientierte Programmiersprachen](Programmiersprachen/Objektorientierte%20Programmiersprachen.md)
 - es gibt viele verschiedene Tools: von Hilfen bei der Erstellung, bis zur Erzeugung von Quellcode aus UML-Diagrammen
+- definiert grafische Symbole für objektorientierte Konzepte
+- reine Modellierungsnotation
+- 
