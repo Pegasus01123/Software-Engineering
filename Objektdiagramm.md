@@ -1,0 +1,4 @@
+- Objekte der Realwelt, Eigenschaften und Beziehungen modellieren
+- unterschiedlich Umfangreich
+- Objekte ohne Verbindungen
+- einzelnes Objekt
