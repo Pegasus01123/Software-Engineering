@@ -10,7 +10,7 @@
           {
             "id": "2771f84536ed5dd1",
             "type": "tabs",
-            "dimension": 24.856321839080454,
+            "dimension": 50.50287356321839,
             "children": [
               {
                 "id": "14ec0554ac7be619",
@@ -29,7 +29,7 @@
           {
             "id": "61d97a7a9769ee9a",
             "type": "tabs",
-            "dimension": 37.57183908045977,
+            "dimension": 26.939655172413797,
             "children": [
               {
                 "id": "6fbfb5f82689369d",
@@ -48,7 +48,7 @@
           {
             "id": "74d086dd5606197e",
             "type": "tabs",
-            "dimension": 37.57183908045977,
+            "dimension": 22.557471264367816,
             "children": [
               {
                 "id": "e0f75ddae34a3928",
@@ -74,7 +74,7 @@
           {
             "id": "b376bbbd24e210df",
             "type": "tabs",
-            "dimension": 27.945402298850574,
+            "dimension": 27.945402298850578,
             "children": [
               {
                 "id": "af005a60e8fb325a",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurstext/Begriffe/Domäne.md",
+                "file": "Kurstext/Modelle/objektorientierte Modellierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurstext/Begriffe/Domäne.md",
+                "file": "Kurstext/Modelle/objektorientierte Modellierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurstext/Begriffe/Domäne.md"
+                "file": "Kurstext/Modelle/objektorientierte Modellierung.md"
               }
             }
           }
@@ -238,10 +238,11 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "e0f75ddae34a3928",
+  "active": "14ec0554ac7be619",
   "lastOpenFiles": [
-    "Kurstext/Begriffe/Domänenmodell.md",
+    "Kurstext/Begriffe/Rollen.md",
     "Kurstext/Modelle/objektorientierte Modellierung.md",
+    "Kurstext/Begriffe/Domänenmodell.md",
     "Kurstext/Begriffe/Domäne.md",
     "Kurstext/Begriffe/objektorientierte Programmierung.md",
     "Kurstext/Begriffe/Objekt.md",
@@ -266,7 +267,6 @@
     "README.md",
     "Kurstext/Begriffe/SADT.md",
     "Kurstext/Modelle",
-    "Kurstext/Wichtige Begriffe/Untitled",
-    "Kurstext/Persönlichkeiten und Organisationen/ACM.md"
+    "Kurstext/Wichtige Begriffe/Untitled"
   ]
 }
