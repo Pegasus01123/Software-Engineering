@@ -1,2 +1,2 @@
-Das Ergebnis einer Tätigkeit im Softwarentwicklungsprozess
+Das Ergebnis einer Tätigkeit im Softwareentwicklungsprozess
 Bei Artefakten kann es sich um jegliche Art von Dokumenten oder um Diagramme, formale Spezifikationen, Modelle, einzelne Modellelemente, Quellcode oder sonstige Ergebnisse handeln.

@@ -66,7 +66,6 @@
 
 
 ## <font color="228B22">Beispiele:</font>
-- [Spiralmodell](Spiralmodell.md)
 - [Unified Process und Rational Unified Process](Unified%20Process%20und%20Rational%20Unified%20Process.md)
 
 

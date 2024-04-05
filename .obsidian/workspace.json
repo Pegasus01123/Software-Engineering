@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a5dd757dfba9effc",
-        "type": "split",
+        "id": "3f22c5f9b99c29a2",
+        "type": "tabs",
         "children": [
           {
-            "id": "2771f84536ed5dd1",
-            "type": "tabs",
-            "dimension": 77.29885057471265,
-            "children": [
-              {
-                "id": "14ec0554ac7be619",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kurstext/Modelle/objektorientierte Modellierung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9d8213dd898b7067",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kurstext/UML.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "f0a9baa6afd48c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurstext/Begriffe/Artefakte.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "74d086dd5606197e",
-            "type": "tabs",
-            "dimension": 22.701149425287355,
-            "children": [
-              {
-                "id": "e0f75ddae34a3928",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kurstext/Begriffe/Domäne.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "6ebc9b85eac9c1d4",
-        "type": "split",
-        "children": [
-          {
-            "id": "b376bbbd24e210df",
-            "type": "tabs",
-            "dimension": 77.08333333333334,
-            "children": [
-              {
-                "id": "41f44bfd627f5a3c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Klassendiagramm.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "808691aeee0a3b1c",
-            "type": "tabs",
-            "dimension": 22.916666666666664,
-            "children": [
-              {
-                "id": "dc876c18d3c81a12",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kurstext/Begriffe/objektorientierte Programmierung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurstext/UML.md",
+                "file": "Kurstext/Begriffe/Artefakte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurstext/UML.md",
+                "file": "Kurstext/Begriffe/Artefakte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurstext/UML.md"
+                "file": "Kurstext/Begriffe/Artefakte.md"
               }
             }
           }
@@ -232,37 +147,39 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "9d8213dd898b7067",
+  "active": "f0a9baa6afd48c63",
   "lastOpenFiles": [
-    "Klassendiagramm.md",
-    "Untitled.canvas",
-    "Objektdiagramm.md",
-    "Kurstext/UML.md",
+    "Kurstext/Begriffe/Kernprozess.md",
+    "Kurstext/Begriffe/Rollen.md",
+    "Kurstext/Persönlichkeiten und Organisationen/Booch.md",
+    "Kurstext/Persönlichkeiten und Organisationen/Parnas.md",
+    "Pascal.md",
+    "Kurstext/Programmiersprachen/höhere Programmiersprachen.md",
+    "Kurstext/Persönlichkeiten und Organisationen/Wirth.md",
+    "Kurstext/Persönlichkeiten und Organisationen/Naur.md",
+    "Kurstext/Persönlichkeiten und Organisationen/Dijkstra.md",
+    "Fallbeispiel Zoo/Zoo Verwaltungssoftware.md",
     "Kurstext/Modelle/objektorientierte Modellierung.md",
-    "Kurstext/Untitled Diagram.svg",
+    "Fallbeispiel Zoo",
+    "Kurstext/Vorgehensmodelle/iterativ-inkrementelle Modelle.md",
     "Untitled Diagram.svg",
+    "Untitled.canvas",
+    "Kurstext/Vorgehensmodelle/Sequentielle Modelle.md",
+    "Kurstext/UML.md",
+    "Kurstext/Vorgehensmodelle/V-Modell.md",
+    "Kurstext/Vorgehensmodelle/Spiralmodell.md",
+    "Kurstext/Klassendiagramm.md",
+    "Kurstext/Objektdiagramm.md",
+    "Kurstext/Untitled Diagram.svg",
     "Kurstext/Begriffe/Objekt.md",
     "Kurstext/Vorgehensmodelle/agile Modelle.md",
-    "Pasted image 20240322064051.png",
+    "Kurstext/Screenshots/Pasted image 20240322064051.png",
     "Kurstext/Modelle/Modellbegriff.md",
     "Kurstext/Programmiersprachen/Objektorientierte Programmiersprachen.md",
-    "Anforderungsanalyse.md",
-    "Anforderungsermittlung.md",
-    "Kurstext/Begriffe/Rollen.md",
+    "Kurstext/Anforderungsanalyse.md",
+    "Kurstext/Anforderungsermittlung.md",
     "Kurstext/Begriffe/Domänenmodell.md",
     "Kurstext/Begriffe/Domäne.md",
-    "Kurstext/Begriffe/objektorientierte Programmierung.md",
-    "Kurstext/Begriffe/Softwareentwicklungsprozesses.md",
-    "Softwareentwicklung.md",
-    "Kurstext/Begriffe/strukturierte Programmierung.md",
-    "Kurstext/Programmiersprachen/höhere Programmiersprachen.md",
-    "Kurstext/Vorgehensmodelle/Unified Process und Rational Unified Process.md",
-    "Kurstext/Programmiersprachen/Smalltalk.md",
-    "Kurstext/Programmiersprachen/Simula-67.md",
-    "Kurstext/Modelle/Zielgruppe.md",
-    "Kurstext/Modelle/Perspektive.md",
-    "Kurstext/Modelle/Modellierungszweck.md",
-    "Kurstext/Modelle/Modellierungsgegenstand.md",
     "Kurstext/Modelle",
     "Kurstext/Wichtige Begriffe/Untitled"
   ]

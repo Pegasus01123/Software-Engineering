@@ -1,4 +1,4 @@
-- jede Rolle hat bestimmte Aufgaben
+- Abstrakte Beschreibung einer anonymen Person mit definierten Aufgaben und Befugnissen und entsprechenden Kenntnissen und Fähigkeiten.
 - für jede Rolle werden bestimmte Kenntnisse und Fähigkeiten gebraucht
 
 ## Rollen:

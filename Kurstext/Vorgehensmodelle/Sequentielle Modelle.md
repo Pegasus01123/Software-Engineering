@@ -29,6 +29,4 @@
 ## <font color="228B22">Beispiele:</font>
 
 - [Wasserfallmodell](Wasserfallmodell.md)
-- [V-Modell](V-Modell.md)
-
 
