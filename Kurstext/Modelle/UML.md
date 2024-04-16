@@ -36,20 +36,29 @@ entwickelt von [Booch](Persönlichkeiten%20und%20Organisationen/Booch.md), [Jaco
 	- Kleinbuchstaben
 	- zentriert
 	- eindeutig
+	- : Katze Objekt vom Typ Katze
 
 ``` nomnoml
-[__objektname__]
+[<instance> objektname]
 ```
+``` nomnoml
+[<instance> pünktchen : Katze]
+```
+## anonymes Objekt
+- irgend ein Objekt eines Bestimmten Typs
+- ohne Name
+- genau ein Objekt
+``` nomnoml
+[<instance> : Katze]
+``` 
+
 
 ## Klasse
 - zeigt den Typ eines Objektes
 - Groß geschrieben
-- : Katze Objekt vom Typ Katze
+- unabhängig von der Existenz der modellierten Objekte
 ``` nomnoml
-[__pünktchen : Katze__]
+[Katze]
 ```
-## anonymes Objekt
-- 
-
 
 

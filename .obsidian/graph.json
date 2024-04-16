@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "objektorientierte",
+  "collapse-filter": false,
+  "search": "anforderungs",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.9999999999999996,
-  "close": false
+  "close": true
 }

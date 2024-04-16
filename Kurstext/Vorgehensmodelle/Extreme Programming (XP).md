@@ -23,7 +23,7 @@
 ## Umgang mit Anforderungen:
 - Anforderungen werden in Form von [User Stories](User%20Stories.md) spezifiziert
 - [User Stories](User%20Stories.md) sind Ausgang für das [Planungsspiel](Planungsspiel.md) zu Beginn jeder Iteration
-- Prioritäten können zu beginn jeder Iteration angepasst werden und Anforderungen hinzugefügt werden.
+- Prioritäten können zu Beginn jeder Iteration angepasst werden und Anforderungen hinzugefügt werden.
 ## Artefakte:
 - wenig Dokumentation
 ## Einordnung:

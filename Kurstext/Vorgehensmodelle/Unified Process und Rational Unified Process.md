@@ -8,7 +8,7 @@
 - von Rational Software entwickelt
 - stark ausdifferenzierte und Werkzeug gestützte Version von Unified Process
 - eigenständige Software-Suite
-- alle vier Phasen ([](.md#Struktur)) können wiederholt werden. 
+- alle vier Phasen können wiederholt werden. 
 - Der erste Entwicklungszyklus wird als Initialzyklus bezeichnet, die weiteren als Evolutionszyklen.
 - definiert grundlegende Prinzipien für geschäftsprozessorientierte Softwareentwicklung
 - komponentenbasierte Architektur

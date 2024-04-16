@@ -1,8 +1,8 @@
 - Modellierung von Realweltzusammenhängen
 - Ursprung in der [objektorientierte Programmierung](../Begriffe/objektorientierte%20Programmierung.md)
-- für [Domänenmodell](../Begriffe/Domänenmodell.md)e wird häufig [UML](../UML.md) benutzt
+- für [Anforderungsermittlung und Domänenmodell](Anforderungsermittlung%20und%20Domänenmodell.md)e wird häufig [UML](UML.md) benutzt
 
-### [[Anforderungsermittlung]] und [Domänenmodell](../Begriffe/Domänenmodell.md)
+### [Anforderungsermittlung und Domänenmodell](Anforderungsermittlung%20und%20Domänenmodell.md)
 - zeitgleiche Erstellung
 - Wird vom Softwareentwicklungsteam erstellt
 - Hauptzweck ist das gemeinsame Begriffsverständniss Kunde --> Entwicklungsteam

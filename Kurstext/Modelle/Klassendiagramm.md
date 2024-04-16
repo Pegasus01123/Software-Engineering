@@ -1,0 +1,5 @@
+- modellierung von Klassen
+- eine der wichtigsten Diagrammarten
+- stellt Klassen und ihre Beziehungen untereinander dar
+- öfter als [[Objektdiagramm|Objektdiagramme]]
+- 

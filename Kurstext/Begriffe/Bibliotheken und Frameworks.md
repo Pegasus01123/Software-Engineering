@@ -1,0 +1,3 @@
+- Bibliotheken bestehen aus Sammlungen mit Programmcodekomponenten, die nützliche und allgemeine Funktionalitäten zur Verfügung stellen
+- Frameworks liefern das Grundgerüst für ein Softwareprogramm
+- 
