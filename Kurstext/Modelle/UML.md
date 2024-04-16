@@ -51,8 +51,6 @@ entwickelt von [Booch](Persönlichkeiten%20und%20Organisationen/Booch.md), [Jaco
 ``` nomnoml
 [<instance> : Katze]
 ``` 
-
-
 ## Klasse
 - zeigt den Typ eines Objektes
 - Groß geschrieben
@@ -60,5 +58,28 @@ entwickelt von [Booch](Persönlichkeiten%20und%20Organisationen/Booch.md), [Jaco
 ``` nomnoml
 [Katze]
 ```
+Darstellung einer Klasse mit Attributen:
+``` nomnoml
+[Klassenname|attribut1|attribut2]
+```
+## Beziehungen zwischen Objekten
+- Beziehungen werden über eine durchgezogene Linie dargestellt
+- Verbindungen können Namen haben
+- Verbindungen können eine Leserichtung haben
+
+``` nomnoml
+#spacing: 48
+#padding: 10
+[<instance>weber : Lehrer] -> unterrichtet[<instance>sport : Fach]
+[<instance>weber : Lehrer] -> unterrichtet[<instance>biologie : Fach]
+[<instance>müller : Lehrer] -> unterrichtet[<instance>sport : Fach]
+[<instance>müller : Lehrer] -> unterrichtet[<instance>mathe : Fach]
+[<instance>sport : Fach]<- nimmt teil[<instance>nadine : Schüler]
+[<instance>sport : Fach]<- nimmt teil[<instance>max : Schüler]
+[<instance>biologie : Fach]<- nimmt teil[<instance>max : Schüler]
+[<instance>biologie : Fach]<- nimmt teil[<instance>klaus : Schüler]
+[<instance>mathe : Fach]<- nimmt teil[<instance>klaus : Schüler]
+```
+
 
 
