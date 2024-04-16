@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurstext/Modelle/UML.md",
+                "file": "Kurstext/Modelle/Klassendiagramm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurstext/Modelle/UML.md",
+                "file": "Kurstext/Modelle/Klassendiagramm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurstext/Modelle/UML.md",
+                "file": "Kurstext/Modelle/Klassendiagramm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurstext/Modelle/UML.md"
+                "file": "Kurstext/Modelle/Klassendiagramm.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "8504e29a23951ffb",
   "lastOpenFiles": [
+    "Kurstext/Modelle/Objektdiagramm.md",
     "Kurstext/Modelle/Klassendiagramm.md",
+    "Kurstext/Modelle/Untitled Diagram.svg",
     "Kurstext/Modelle/UML.md",
     "Kurstext/Modelle/objektorientierte Modellierung.md",
-    "Kurstext/Modelle/Objektdiagramm.md",
     "Kurstext/Modelle/Modellbegriff.md",
     "Kurstext/Modelle/Geltungsbereich.md",
     "Kurstext/Modelle/Anforderungsermittlung und Domänenmodell.md",
@@ -178,7 +179,6 @@
     "Kurstext/Begriffe/SD, SA.md",
     "Kurstext/Anforderungsanalyse.md",
     "Kurstext/Begriffe/strukturierte Programmierung.md",
-    "Kurstext/Begriffe/wachsende Bedeutung von Software.md",
     "Fallbeispiel Zoo",
     "Untitled Diagram.svg",
     "Untitled.canvas",
