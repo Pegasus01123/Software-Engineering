@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Kurstext/UML/UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Kurstext/UML/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Kurstext/UML/UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Kurstext/UML/UML.md"
               }
             }
           }
@@ -150,17 +150,27 @@
   },
   "active": "3d035070d466688e",
   "lastOpenFiles": [
-    "UML/Klassendiagramm.md",
-    "UML/Objektdiagramm.md",
-    "UML/objektdiagramm.svg",
+    "Kurstext/Anforderungsanalyse.md",
+    "Kurstext/UML/UML.md",
+    "Kurstext/Screenshots/Pasted image 20240419212252.png",
+    "Kurstext/Screenshots/Pasted image 20240419212206.png",
+    "Kurstext/Screenshots/Pasted image 20240419212016.png",
+    "Kurstext/Screenshots/Pasted image 20240419211416.png",
+    "Kurstext/Screenshots/Pasted image 20240419211300.png",
+    "Kurstext/Screenshots/Pasted image 20240419210843.png",
+    "Kurstext/Screenshots/Pasted image 20240419210827.png",
+    "Kurstext/Diagramme",
+    "Kurstext/Screenshots/Pasted image 20240419210537.png",
+    "Kurstext/UML/Klassendiagramm.md",
+    "Kurstext/Diagramme/klassendiagram.svg",
+    "README.md",
+    "Kurstext/UML/Objektdiagramm.md",
+    "Kurstext/Diagramme/objektdiagramm.svg",
     "UML/Objektdiagramm.drawio",
     "Fallbeispiel Zoo/Zoo Verwaltungssoftware.md",
     "Kurstext/Begriffe/SD, SA.md",
     "Untitled.canvas",
-    "Untitled Diagram.svg",
-    "UML/UML.md",
-    "UML",
-    "Kurstext/Modelle/Untitled Diagram.svg",
+    "Kurstext/UML",
     "Kurstext/Modelle/objektorientierte Modellierung.md",
     "Kurstext/Modelle/Modellbegriff.md",
     "Kurstext/Modelle/Geltungsbereich.md",
@@ -170,10 +180,6 @@
     "Kurstext/Vorgehensmodelle/Unified Process und Rational Unified Process.md",
     "Kurstext/Begriffe/Kernprozess.md",
     "Kurstext/Vorgehensmodelle/Wasserfallmodell.md",
-    "Kurstext/Screenshots/Pasted image 20240314090359.png",
-    "Kurstext/Screenshots/Pasted image 20240313123038.png",
-    "Kurstext/Screenshots/Pasted image 20240313085132.png",
-    "Kurstext/Screenshots/Pasted image 20240313084520.png",
     "Kurstext/Vorgehensmodelle/Sequentielle Modelle.md",
     "Kurstext/Begriffe/User Stories.md",
     "Kurstext/Vorgehensmodelle/Extreme Programming (XP).md",
@@ -184,10 +190,7 @@
     "Kurstext/Begriffe/Flussdiagramm.md",
     "Kurstext/Begriffe/Modularisierung.md",
     "Kurstext/Begriffe/SADT.md",
-    "Kurstext/Anforderungsanalyse.md",
     "Fallbeispiel Zoo",
-    "Kurstext/Untitled Diagram.svg",
-    "Kurstext/Screenshots/Pasted image 20240322064051.png",
     "Kurstext/Modelle",
     "Kurstext/Wichtige Begriffe/Untitled"
   ]

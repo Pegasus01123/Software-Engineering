@@ -63,4 +63,37 @@ Darstellung einer Klasse mit Attributen:
 [Klassenname|attribut1|attribut2]
 ```
 
+## Klassenbeziehungen spezifizieren Objektbeziehungen
 
+![[Pasted image 20240419210537.png]]
+- mit jeder Assoziation sind zwei Aussagen verbunden
+
+## mehrere Assoziationen
+![[Pasted image 20240419210827.png]]
+![[Pasted image 20240419210843.png]]
+- bei mehreren Assoziationen zwischen zwei Klassen muss immer entweder assoziationsname oder Rollenbezeichnung vorhanden sein
+
+## Reflexive Assoziationen
+- Beziehungen zwischen Verschiedenen Objekten der selben Klasse
+![[Pasted image 20240419211300.png]]
+
+## n-äre Beziehungen
+- Objekte von mehr als zwei Klassen stehen in Beziehung
+![[Pasted image 20240419211416.png]]
+## Aggregation und Komposition
+- Teil-Ganzes-Beziehung
+- Aggregation:
+	- unausgefüllte Raute
+	- Existenz der Teile ist ohne das Ganze möglich
+- Komposition:
+	- ausgefüllte Raute
+	- Teile können nicht ohne das Ganze existieren 
+	- ein Teil-Objekt darf nur mit einem einzigen Ganzes-Objekt verbunden sein
+![[Pasted image 20240419212016.png]]
+
+## Assoziationsklassen
+- Eigenschaften einer Assoziation können mit den Eigenschaften einer Klasse kombiniert werden
+![[Pasted image 20240419212206.png]]
+
+## Generalisierung und Spezialisierung
+![[Pasted image 20240419212252.png]]
