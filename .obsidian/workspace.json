@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e67f6ad2ada1d51",
+        "id": "52808ae254a4205d",
         "type": "tabs",
         "children": [
           {
-            "id": "8504e29a23951ffb",
+            "id": "3d035070d466688e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurstext/Modelle/Klassendiagramm.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,16 +32,6 @@
         "id": "2ba10adddc79ab48",
         "type": "tabs",
         "children": [
-          {
-            "id": "5a809969af65b65e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "acb3a0fd88fe6fe0",
             "type": "leaf",
@@ -64,12 +54,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "6532389e4bd89daa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "right": {
     "id": "c346da7ae5b31124",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurstext/Modelle/Klassendiagramm.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurstext/Modelle/Klassendiagramm.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurstext/Modelle/Klassendiagramm.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,12 +148,19 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "8504e29a23951ffb",
+  "active": "3d035070d466688e",
   "lastOpenFiles": [
-    "Kurstext/Modelle/Objektdiagramm.md",
-    "Kurstext/Modelle/Klassendiagramm.md",
+    "UML/Klassendiagramm.md",
+    "UML/Objektdiagramm.md",
+    "UML/objektdiagramm.svg",
+    "UML/Objektdiagramm.drawio",
+    "Fallbeispiel Zoo/Zoo Verwaltungssoftware.md",
+    "Kurstext/Begriffe/SD, SA.md",
+    "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "UML/UML.md",
+    "UML",
     "Kurstext/Modelle/Untitled Diagram.svg",
-    "Kurstext/Modelle/UML.md",
     "Kurstext/Modelle/objektorientierte Modellierung.md",
     "Kurstext/Modelle/Modellbegriff.md",
     "Kurstext/Modelle/Geltungsbereich.md",
@@ -176,12 +184,8 @@
     "Kurstext/Begriffe/Flussdiagramm.md",
     "Kurstext/Begriffe/Modularisierung.md",
     "Kurstext/Begriffe/SADT.md",
-    "Kurstext/Begriffe/SD, SA.md",
     "Kurstext/Anforderungsanalyse.md",
-    "Kurstext/Begriffe/strukturierte Programmierung.md",
     "Fallbeispiel Zoo",
-    "Untitled Diagram.svg",
-    "Untitled.canvas",
     "Kurstext/Untitled Diagram.svg",
     "Kurstext/Screenshots/Pasted image 20240322064051.png",
     "Kurstext/Modelle",
