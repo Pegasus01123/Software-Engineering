@@ -1,4 +1,4 @@
-Interessenvertreter
+Umfasst alle Personengruppen deren Interessen durch das [[Softwareprodukt]] berührt werden oder die Einfluss nehmen können:
 - Softwareentwickler
 - Softwarearchitekten
 - Tester

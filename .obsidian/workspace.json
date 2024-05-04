@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7331a917a5e8bd6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurstext/Begriffe/Stakeholder.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Kurstext/Begriffe/Stakeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Kurstext/Begriffe/Stakeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Kurstext/Begriffe/Stakeholder.md"
               }
             }
           }
@@ -148,12 +161,14 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "630a4d1f5378f369",
+  "active": "7331a917a5e8bd6a",
   "lastOpenFiles": [
+    "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
     "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md",
+    "Kurstext/Diagramme/Teilprozesse.svg",
+    "README.md",
     "www.ireb.org.md",
     "Kurstext/UML/UML.md",
-    "README.md",
     "Kurstext/Requirements Engineering",
     "Kurstext/UML/Klassendiagramm.md",
     "Kurstext/Begriffe/Domäne.md",
@@ -170,8 +185,6 @@
     "Kurstext/Screenshots/Pasted image 20240419210827.png",
     "Kurstext/Diagramme",
     "Kurstext/Screenshots/Pasted image 20240419210537.png",
-    "Kurstext/Diagramme/klassendiagram.svg",
-    "Kurstext/Diagramme/objektdiagramm.svg",
     "UML/Objektdiagramm.drawio",
     "Fallbeispiel Zoo/Zoo Verwaltungssoftware.md",
     "Kurstext/Begriffe/SD, SA.md",
@@ -190,7 +203,6 @@
     "Kurstext/Begriffe/Bibliotheken und Frameworks.md",
     "Kurstext/Begriffe/Spezifikations- und Entwurfsmethoden.md",
     "Kurstext/Begriffe/Nassi-Shneidermann-Diagramm.md",
-    "Kurstext/Begriffe/Flussdiagramm.md",
     "Fallbeispiel Zoo",
     "Kurstext/Modelle",
     "Kurstext/Wichtige Begriffe/Untitled"
