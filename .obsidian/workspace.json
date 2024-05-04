@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurstext/Begriffe/Stakeholder.md",
+                "file": "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurstext/Begriffe/Stakeholder.md",
+                "file": "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurstext/Begriffe/Stakeholder.md"
+                "file": "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md"
               }
             }
           }
@@ -161,8 +160,9 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "7331a917a5e8bd6a",
+  "active": "630a4d1f5378f369",
   "lastOpenFiles": [
+    "Kurstext/Begriffe/Stakeholder.md",
     "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
     "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md",
     "Kurstext/Diagramme/Teilprozesse.svg",
@@ -202,7 +202,6 @@
     "Kurstext/Begriffe/Planungsspiel.md",
     "Kurstext/Begriffe/Bibliotheken und Frameworks.md",
     "Kurstext/Begriffe/Spezifikations- und Entwurfsmethoden.md",
-    "Kurstext/Begriffe/Nassi-Shneidermann-Diagramm.md",
     "Fallbeispiel Zoo",
     "Kurstext/Modelle",
     "Kurstext/Wichtige Begriffe/Untitled"
