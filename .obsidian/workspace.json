@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "630a4d1f5378f369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurstext/UML/UML.md",
+                "file": "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurstext/UML/UML.md",
+                "file": "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurstext/UML/UML.md"
+                "file": "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md"
               }
             }
           }
@@ -148,10 +161,17 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "3d035070d466688e",
+  "active": "630a4d1f5378f369",
   "lastOpenFiles": [
-    "Kurstext/Anforderungsanalyse.md",
     "Kurstext/UML/UML.md",
+    "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md",
+    "Kurstext/Requirements Engineering",
+    "Kurstext/UML/Klassendiagramm.md",
+    "Kurstext/Begriffe/Domäne.md",
+    "Kurstext/Modelle/Anforderungsermittlung und Domänenmodell.md",
+    "Kurstext/Modelle/objektorientierte Modellierung.md",
+    "Kurstext/UML/Objektdiagramm.md",
+    "Kurstext/Anforderungsanalyse.md",
     "Kurstext/Screenshots/Pasted image 20240419212252.png",
     "Kurstext/Screenshots/Pasted image 20240419212206.png",
     "Kurstext/Screenshots/Pasted image 20240419212016.png",
@@ -161,21 +181,16 @@
     "Kurstext/Screenshots/Pasted image 20240419210827.png",
     "Kurstext/Diagramme",
     "Kurstext/Screenshots/Pasted image 20240419210537.png",
-    "Kurstext/UML/Klassendiagramm.md",
     "Kurstext/Diagramme/klassendiagram.svg",
     "README.md",
-    "Kurstext/UML/Objektdiagramm.md",
     "Kurstext/Diagramme/objektdiagramm.svg",
     "UML/Objektdiagramm.drawio",
     "Fallbeispiel Zoo/Zoo Verwaltungssoftware.md",
     "Kurstext/Begriffe/SD, SA.md",
     "Untitled.canvas",
     "Kurstext/UML",
-    "Kurstext/Modelle/objektorientierte Modellierung.md",
     "Kurstext/Modelle/Modellbegriff.md",
     "Kurstext/Modelle/Geltungsbereich.md",
-    "Kurstext/Modelle/Anforderungsermittlung und Domänenmodell.md",
-    "Kurstext/Begriffe/Domäne.md",
     "Kurstext/Begriffe/Anforderungsermittlung.md",
     "Kurstext/Vorgehensmodelle/Unified Process und Rational Unified Process.md",
     "Kurstext/Begriffe/Kernprozess.md",
@@ -189,7 +204,6 @@
     "Kurstext/Begriffe/Nassi-Shneidermann-Diagramm.md",
     "Kurstext/Begriffe/Flussdiagramm.md",
     "Kurstext/Begriffe/Modularisierung.md",
-    "Kurstext/Begriffe/SADT.md",
     "Fallbeispiel Zoo",
     "Kurstext/Modelle",
     "Kurstext/Wichtige Begriffe/Untitled"
