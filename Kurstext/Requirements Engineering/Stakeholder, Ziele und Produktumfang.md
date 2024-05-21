@@ -1,4 +1,4 @@
-### Ziele, Anforderungen und [[#^12d8d3|Stakeholder]] können in der Praxis nicht isoliert von einander gesehen werden.
+### [[#^15ef57|Ziele]], Anforderungen und [[#^12d8d3|Stakeholder]] können in der Praxis nicht isoliert von einander gesehen werden.
 
 ``` nomnoml
 [Stakeholder]->manifestieren Bedürfnisse in [Anforderungen]
@@ -53,4 +53,15 @@
 - Projektspezifisch welche Gruppen zu den Stakeholdern gehören
 - Projektleiter sollte alle Stakeholder zu beginn eines Projektes kennen
 	- nicht berücksichtigte Stakeholder können später Anforderungen haben, die wichtig für das Projekt sind
+- Berücksichtigung und Priorisierung kann enormes Konfliktpotential bergen
+- es muss vom Auftraggeber klar gemacht werden, welche Gruppen Anforderungen stellen und priorisieren dürfen
+- Stakeholder bei [[Scrum|SCRUM]]
+	- Produkt Owner ist genau eine Person, kein anderer kann Anforderungen stellen
+
+## Vision und Ziele
+
+^15ef57
+### Vision
+- unkonkrete Idee warum das Projekt gestartet wird
 - 
+
