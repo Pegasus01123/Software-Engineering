@@ -63,5 +63,13 @@
 ^15ef57
 ### Vision
 - unkonkrete Idee warum das Projekt gestartet wird
-- 
+- Zu einer Vision gehören:
+	- **Die Darstellung der Ausgangslage und der Motivation für die Projektdurchführung**
+		- aktuelle Situation mit Problemen und Erwartungen
+		- positiven Einfluss des Projektes skizzieren
+	- **skizzenhafte Beschreibung der Hauptcharakteristika des Softwareprodukts**
+		- die wichtigsten Eigenschafften und Funktionälitäten werden beschrieben
+		- Einschränkungen werden aufgeführt
+	- **grober Überblick über Verbindungen zu anderen Systemen**
+		- 
 
