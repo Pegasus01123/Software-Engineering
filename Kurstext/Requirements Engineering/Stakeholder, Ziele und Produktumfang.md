@@ -61,6 +61,7 @@
 ## Vision und Ziele
 
 ^15ef57
+**Die Vision ist die Basis, aus der (unter anderem) die Ziele abgeleitet werden. Vision und Ziele bewegen sich somit auf unterschiedlichen Abstraktionsniveaus.**
 ### Vision
 - unkonkrete Idee warum das Projekt gestartet wird
 - Zu einer Vision gehören:
@@ -71,5 +72,16 @@
 		- die wichtigsten Eigenschafften und Funktionälitäten werden beschrieben
 		- Einschränkungen werden aufgeführt
 	- **grober Überblick über Verbindungen zu anderen Systemen**
-		- 
+		- in welcher Umgebung wird das Produkt eingesetzt: Schnittstellen, existierende Geschäftsprozesse, Verbindung zur Hardware
+- Hauptcharakteristika des Produktes werden durch Konkretisierung und Ausdifferenzierung der Vision abgeleitet
+- Visionen können unterschiedliche Schwerpunkte haben
+- eine Vision kann unterschiedlich lang sein 
+	- Produktkarton
+
+
+![[Pasted image 20240524115723.png]]
+**Die Vision ist nötig, um die Produktziele, den Produktumfang und auch die Bedürfnisse der einzelnen Stakeholder des Projekts auf die übergreifenden Ziele, die aktuelle Situation und die Zukunftspläne des Unternehmens zu fokussieren. Wir erinnern daran, dass die Ziele der Maßstab für die Relevanz der Anforderungen sind. Der Maßstab für die Relevanz der einzelnen Ziele wiederum ist die Vision. Ähnliches gilt für den Produktumfang: Der Produktumfang ist der Rahmen, in den die Anforderungen passen müssen. Der Rahmen, in den der Produktumfang passen muss, ist die Vision.**
+
+### Ziele
+
 

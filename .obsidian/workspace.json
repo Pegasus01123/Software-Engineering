@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7331a917a5e8bd6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurstext/Begriffe/Stakeholder.md",
+                "file": "Kurstext/Vorgehensmodelle/Extreme Programming (XP).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
+                "file": "Kurstext/Vorgehensmodelle/Extreme Programming (XP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
+                "file": "Kurstext/Vorgehensmodelle/Extreme Programming (XP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md"
+                "file": "Kurstext/Vorgehensmodelle/Extreme Programming (XP).md"
               }
             }
+          },
+          {
+            "id": "efd27ed603be2ec0",
+            "type": "leaf",
+            "state": {
+              "type": "sketch-canvas",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 523.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,56 +154,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "simple-sketch:Simple Sketch": false
     }
   },
   "active": "630a4d1f5378f369",
   "lastOpenFiles": [
-    "Kurstext/Begriffe/Stakeholder.md",
-    "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
-    "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md",
+    "Kurstext/Begriffe/Planungsspiel.md",
+    "Kurstext/Vorgehensmodelle/Extreme Programming (XP).md",
+    "Kurstext/Begriffe/User Stories.md",
+    "Kurstext/Begriffe/Taskcard.md",
+    "Kurstext/Begriffe/Spezifikations- und Entwurfsmethoden.md",
+    "Kurstext/Begriffe/strukturierte Programmierung.md",
+    "Kurstext/Begriffe/Softwareengineering.md",
+    "Kurstext/Begriffe/NATO-Konferenz.md",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/4 Eigenschaften von Petrinetzen/Eigenschaften.md",
+    "Pasted image 20240925094135.png",
+    "ZXY Snippets.md",
+    "Pasted image 20240925093514.png",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/4 Eigenschaften von Petrinetzen/Untitled.canvas",
+    "Pasted image 20240925091238.png",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/3 Systemmodellierung mit Petrinetzen/3.1 Was ist ein Petrinetz.md",
+    "Pasted image 20240925085941.png",
+    "Kurstext/Screenshots/Pasted image 20240923211229.png",
+    "Kurstext/Screenshots/Pasted image 20240923211136.png",
+    "Kurstext/Screenshots/Pasted image 20240923211011.png",
+    "Kurstext/Screenshots/Pasted image 20240923210435.png",
+    "Kurstext/Screenshots/Pasted image 20240923205934.png",
+    "Kurstext/Screenshots/Pasted image 20240923205746.png",
     "Kurstext/Prozessmodellierung mit Petrinetzen/2 Modellierung von Verhalten/2.2 Erstes Petrinetz.md",
-    "Kurstext/Screenshots/Pasted image 20240507202140.png",
+    "Kurstext/Begriffe/Bipartit.md",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/11 Prozessbeschreibungssprachen",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/10 Objektverhalten",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/9 Höhere Netze",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/8 Synthese",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/7 Prozessmodellierung",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/2 Modellierung von Verhalten/Untitled",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/6 Abläufe von Petrinetzen",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/5 Analyse von Petrinetzen",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/4 Eigenschaften von Petrinetzen",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/Systemmodellierung mit Petrinetzen.md",
+    "Kurstext/Prozessmodellierung mit Petrinetzen/3 Systemmodellierung mit Petrinetzen",
+    "Kurstext/UML/Objektdiagramm.md",
+    "Kurstext/UML/UML.md",
     "Kurstext/Prozessmodellierung mit Petrinetzen/2 Modellierung von Verhalten/2.1 Fütterung der Tiere im Zoo.md",
-    "Kurstext/Screenshots/Pasted image 20240507201603.png",
-    "Kurstext/Screenshots/Pasted image 20240507200640.png",
-    "Kurstext/Screenshots/Pasted image 20240507195940.png",
-    "Kurstext/Screenshots/Pasted image 20240507195923.png",
+    "Kurstext/UML/Klassendiagramm.md",
+    "Kurstext/Requirements Engineering/Stakeholder, Ziele und Produktumfang.md",
+    "Kurstext/Begriffe/Stakeholder.md",
+    "Kurstext/Requirements Engineering/Bedeutung und Teilprozesse.md",
     "Kurstext/Prozessmodellierung mit Petrinetzen/1 Modellierung von dynamischen Systemen und Prozessen/1.4 Verhaltensmodellierung im Softwareengineering.md",
-    "Kurstext/Prozessmodellierung mit Petrinetzen/2 Modellierung von Verhalten",
-    "Kurstext/Prozessmodellierung mit Petrinetzen/1 Modellierung von dynamischen Systemen und Prozessen",
-    "Kurstext/Screenshots/Pasted image 20240507192720.png",
     "Kurstext/Prozessmodellierung mit Petrinetzen/1 Modellierung von dynamischen Systemen und Prozessen/1.3 Prozesse und Prozessmodelle.md",
     "Kurstext/Prozessmodellierung mit Petrinetzen/1 Modellierung von dynamischen Systemen und Prozessen/1.2 Systeme.md",
     "Kurstext/Prozessmodellierung mit Petrinetzen/1 Modellierung von dynamischen Systemen und Prozessen/1.1 Beispiele für Prozessmodelle.md",
-    "Kurstext/Screenshots/Pasted image 20240507191328.png",
-    "Kurstext/Screenshots/Pasted image 20240507191052.png",
-    "Kurstext/Prozessmodellierung mit Petrinetzen",
-    "Kurstext/Diagramme/Teilprozesse.svg",
     "README.md",
-    "www.ireb.org.md",
-    "Kurstext/UML/UML.md",
-    "Kurstext/Requirements Engineering",
-    "Kurstext/UML/Klassendiagramm.md",
-    "Kurstext/Begriffe/Domäne.md",
-    "Kurstext/Modelle/Anforderungsermittlung und Domänenmodell.md",
-    "Kurstext/Modelle/objektorientierte Modellierung.md",
-    "Kurstext/UML/Objektdiagramm.md",
-    "Kurstext/Anforderungsanalyse.md",
-    "Kurstext/Screenshots/Pasted image 20240419212252.png",
-    "Kurstext/Diagramme",
-    "UML/Objektdiagramm.drawio",
-    "Fallbeispiel Zoo/Zoo Verwaltungssoftware.md",
-    "Kurstext/Begriffe/SD, SA.md",
-    "Untitled.canvas",
-    "Kurstext/UML",
-    "Kurstext/Modelle/Modellbegriff.md",
-    "Kurstext/Modelle/Geltungsbereich.md",
-    "Kurstext/Begriffe/Anforderungsermittlung.md",
-    "Kurstext/Vorgehensmodelle/Unified Process und Rational Unified Process.md",
-    "Kurstext/Begriffe/Kernprozess.md",
-    "Fallbeispiel Zoo",
-    "Kurstext/Modelle",
-    "Kurstext/Wichtige Begriffe/Untitled"
+    "Untitled.canvas"
   ]
 }
