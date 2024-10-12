@@ -2,3 +2,12 @@ Das Konzept der Phase bezeichnet im Wasserfallmodell aufeinanderfolgende, in sic
 Das Wasserfallmodell ist ein stark sequentielles Modell.
 Im Ursprünglichen Modell gab es keine Möglichkeit in eine vorherige Phase zurück zu springen.
 Die neuerern Modelle sehen eine Rücksprungmöglichkeit in vorherige Phasen vor.
+Jeder Prozess des Softwareengeneering ist in diesem Modell eine eigene Phase mit eigenen Start- und Endpunkten.
+Zu Anfang eines jeden Projektes werden die erforderliche Meilensteine festgelegt.
+Erst nach erreichen der Meilensteine kann mit einer neuen Phase angefangen werden. 
+Durch diese Aufteilung in Phasen ist eine starke Aufgabenteilung möglich.
+Bei der Phase im RUP handelt es sich um 4 große Abschnitte die mit Meilensteinen abschließen.
+Die Phasen sind hierbei nicht die Prozesse des Softwareengeneering, sondern Konzeption, Ausarbeitung, Konstruktion und Übergang in den Betrieb.
+Im RUP sind die Phasen in Disziplinen unterteilt, in denen sich die Phasen des Wasserfallmodels wiederfinden.
+Hierbei werden die verschiedenen Disziplinen in jeder Phase durchlaufen, aber mit unterschiedlicher gewichtung.
+
